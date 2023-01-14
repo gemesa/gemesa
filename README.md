@@ -24,10 +24,11 @@ I'm András Gémes, a compiler developer at HighTec, Budapest. Previously I have
 ## Involvement
 
 I am involved in the following projects:
-- [cryptmypi](https://github.com/unixabg/cryptmypi) - contributor (submitting patches)
+- [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) - contributor (submitting patches)
+- [OpenWrt](https://github.com/openwrt/openwrt) - contributor (submitting patches)
 - [libdeflate](https://github.com/ebiggers/libdeflate) - contributor (submitting patches)
 - [libdeflate-nim](https://github.com/gemesa/libdeflate-nim) - maintainer
-- [OpenWrt](https://github.com/openwrt/openwrt) - contributor (submitting patches)
+- [cryptmypi](https://github.com/unixabg/cryptmypi) - contributor (submitting patches)
 - [Fedora](https://start.fedoraproject.org/) - contributor (running kernel tests)
 
 Besides that, embedded systems are close to my heart so I always work on some STM32 based side project. Some of them are available here as public repos ([stm32-rf-scanner](https://github.com/gemesa/stm32-rf-scanner), [stm32-dc-dc](https://github.com/gemesa/stm32-dc-dc)). 
