@@ -19,17 +19,16 @@ Here are some ideas to get you started:
 
 ## Hey!
 
-I'm András Gémes, a compiler developer at HighTec, Budapest. Previously I have been working as an embedded SW engineer at Knorr-Bremse, Budapest and as a freelancer on Upwork.
+I'm András Gémes, a Rust toolchain developer at HighTec, Budapest. Previously I have been working as an embedded SW engineer at Knorr-Bremse, Budapest and as a freelancer on Upwork.
 
 ## Involvement
 
 I am involved in the following projects:
 - [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) and [aircrack-ng Wiki](https://www.aircrack-ng.org/doku.php) - contributor
-- [OpenWrt](https://github.com/openwrt/openwrt) - contributor
-- [libdeflate](https://github.com/ebiggers/libdeflate) - contributor
-- [libdeflate-nim](https://github.com/gemesa/libdeflate-nim) - maintainer
+- [8821au](https://github.com/morrownr/8821au-20210708) - contributor
 - [cryptmypi](https://github.com/unixabg/cryptmypi) - contributor
 - [Fedora](https://start.fedoraproject.org/) - contributor
+- [libdeflate-nim](https://github.com/gemesa/libdeflate-nim) - maintainer
 
 Besides that, embedded systems are close to my heart so I always work on some STM32 based side project. Some of them are available here as public repos ([stm32-rf-scanner](https://github.com/gemesa/stm32-rf-scanner), [stm32-dc-dc](https://github.com/gemesa/stm32-dc-dc)). 
 
