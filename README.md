@@ -26,6 +26,7 @@ I'm András Gémes, a Rust toolchain developer at HighTec, Budapest. Previously 
 I am involved in the following projects:
 - [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) and [aircrack-ng Wiki](https://www.aircrack-ng.org/doku.php) - contributor
 - [8821au](https://github.com/morrownr/8821au-20210708) - contributor
+- [Monitor_Mode](https://github.com/morrownr/Monitor_Mode) - contributor
 - [cryptmypi](https://github.com/unixabg/cryptmypi) - contributor
 - [Fedora](https://start.fedoraproject.org/) - contributor
 - [libdeflate-nim](https://github.com/gemesa/libdeflate-nim) - maintainer
