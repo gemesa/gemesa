@@ -42,5 +42,5 @@ Professional:
 - embedded systems (STM32)
 
 Enthusiast:
-- Rust, C++, Nim
-- Linux network stack, ethical hacking, Raspberry Pi
+- Rust, C++
+- Linux network stack, ethical hacking
