@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Hey!
 
-I'm András Gémes, a Rust toolchain developer at HighTec, Budapest. Previously I have been working as an embedded SW engineer at Knorr-Bremse, Budapest and as a freelancer on Upwork.
+I'm András Gémes, a Rust toolchain engineer at HighTec, Budapest. Previously I have been working as an embedded SW engineer at Knorr-Bremse, Budapest and as a freelancer on Upwork.
 
 ## Involvement
 
@@ -35,11 +35,11 @@ Besides that, embedded systems are close to my heart so I always work on some ST
 ## Skills
 
 Professional:
-- C, Python 3, ARM Assembly
-- `gcc`, `clang`, `armclang`, `pclint`, `clang-tidy`, `valgrind`, `gdb`, `make`, `cmake`, `scons`, `git`, `docker`, `podman`
-- Linux, Bash (Fedora, Debian)
-- embedded systems (STM32)
+- C, Rust, Python 3, Assembly (ARM and TriCore)
+- `gcc`, `clang`, `armclang`, `rustc`, `pclint`, `clang-tidy`, `valgrind`, `gdb`, `make`, `cmake`, `scons`, `cargo`, `git`, `docker`, `podman`
+- Linux, Bash (Fedora, Debian and Ubuntu)
+- embedded systems (STM32 and AURIX)
 
 Enthusiast:
-- Rust, C++
-- Linux network stack, ethical hacking
+- Linux network stack
+- ethical hacking
