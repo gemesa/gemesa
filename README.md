@@ -36,7 +36,7 @@ Besides that, embedded systems are close to my heart so I always work on some ST
 
 Professional:
 - C, Rust, Python 3, Assembly (ARM and TriCore)
-- `gcc`, `clang`, `armclang`, `rustc`, `pclint`, `clang-tidy`, `valgrind`, `gdb`, `make`, `cmake`, `scons`, `cargo`, `git`, `docker`, `podman`
+- `gcc`, `clang`, `pclint`, `clang-tidy`, `valgrind`, `gdb`, `make`, `cmake`, `rustc`, `cargo`, `git`, `docker`, `podman`
 - Linux, Bash (Fedora, Debian and Ubuntu)
 - embedded systems (STM32 and AURIX)
 
