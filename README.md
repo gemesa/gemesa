@@ -25,6 +25,7 @@ I'm András Gémes, a Rust toolchain engineer at HighTec, Budapest. Previously I
 
 I am involved in the following projects:
 - [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) - contributor
+- [OpenWrt](https://github.com/openwrt/openwrt) - contributor
 - [8821au](https://github.com/morrownr/8821au-20210708) - contributor
 - [Monitor_Mode](https://github.com/morrownr/Monitor_Mode) - contributor
 - [cryptmypi](https://github.com/unixabg/cryptmypi) - contributor
