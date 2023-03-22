@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Hey!
 
-I'm András Gémes, a Rust toolchain engineer at HighTec, Budapest. Previously I have been working as an embedded SW engineer at Knorr-Bremse, Budapest and as a freelancer on Upwork.
+I'm András Gémes, a C/Rust compiler engineer at HighTec, Budapest. Previously I have been working as an embedded SW engineer at Knorr-Bremse, Budapest and as a freelancer on Upwork.
 
 ## Involvement
 
