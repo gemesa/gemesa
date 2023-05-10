@@ -12,6 +12,7 @@ I am involved in the following projects:
 - [cryptmypi](https://github.com/unixabg/cryptmypi) - contributor
 
 Besides that, embedded systems are close to my heart so I always work on some STM32 based side project. Some of them are available here as public repos:
+- [rustlink](https://github.com/gemesa/rustlink/)
 - [stm32-rf-scanner](https://github.com/gemesa/stm32-rf-scanner)
 - [stm32-dc-dc](https://github.com/gemesa/stm32-dc-dc)
 
