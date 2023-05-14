@@ -9,7 +9,6 @@ I am involved in the following projects:
 - [hcxdumptool](https://github.com/ZerBea/hcxdumptool) - contributor
 - [8821au](https://github.com/morrownr/8821au-20210708) - contributor
 - [Monitor_Mode](https://github.com/morrownr/Monitor_Mode) - contributor
-- [cryptmypi](https://github.com/unixabg/cryptmypi) - contributor
 
 Besides that, embedded systems are close to my heart so I always work on some STM32 based side project. Some of them are available here as public repos:
 - [rustlink](https://github.com/gemesa/rustlink/)
