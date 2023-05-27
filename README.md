@@ -10,10 +10,11 @@ I am involved in the following projects:
 - [8821au](https://github.com/morrownr/8821au-20210708) - contributor
 - [Monitor_Mode](https://github.com/morrownr/Monitor_Mode) - contributor
 
-Besides that, embedded systems are close to my heart so I always work on some STM32 based side project. Some of them are available here as public repos:
+Besides that, embedded systems are close to my heart so I always work on some STM32 or ESP32 based side project. Some of them are available here as public repos:
 - [rustlink](https://github.com/gemesa/rustlink/)
 - [stm32-rf-scanner](https://github.com/gemesa/stm32-rf-scanner)
 - [stm32-dc-dc](https://github.com/gemesa/stm32-dc-dc)
+- [esp32-phantom](https://github.com/gemesa/esp32-phantom/)
 
 ## Skills
 
@@ -21,7 +22,7 @@ Professional:
 - C, Rust, Python 3, Assembly (ARM and TriCore)
 - `gcc`, `clang`, `pclint`, `clang-tidy`, `valgrind`, `gdb`, `make`, `cmake`, `rustc`, `cargo`, `git`, `docker`, `podman`
 - Linux, Bash (Fedora, Debian and Ubuntu)
-- embedded systems (STM32 and AURIX)
+- embedded systems (STM32, ESP32 and AURIX)
 
 Enthusiast:
 - Linux network stack
