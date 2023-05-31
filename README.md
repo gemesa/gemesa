@@ -1,6 +1,6 @@
 ## Hey!
 
-I'm András Gémes, a C/Rust compiler engineer at HighTec, Budapest. Previously I have been working as an embedded SW engineer at Knorr-Bremse, Budapest and as a freelancer on Upwork.
+I'm András Gémes, a C/Rust compiler engineer at [HighTec](https://hightec-rt.com/en/). Previously I have been working as an embedded SW engineer at [Knorr-Bremse](https://www.knorr-bremse.com/en/) and as a freelancer on [Upwork](https://www.upwork.com/).
 
 ## Involvement
 
