@@ -23,9 +23,9 @@ Professional:
 - C, Rust, Python 3, Assembly (ARM and TriCore)
 - `gcc`, `clang`, `pclint`, `clang-tidy`, `valgrind`, `gdb`, `make`, `cmake`, `meson`, `rustc`, `cargo`, `git`, `docker`
 - Linux, Bash (Fedora, Debian and Ubuntu)
-- embedded systems (STM32, ESP32 and AURIX)
+- embedded systems and microcontrollers (STM32, ESP32 and AURIX)
 
 Enthusiast:
-- Linux network stack
+- electronic circuits and PCBs
 - 802.11, radio technology
 - ethical hacking
