@@ -20,12 +20,13 @@ Besides that, embedded systems are close to my heart so I always work on some ST
 ## Skills
 
 Professional:
-- C, Rust, Python 3, Assembly (ARM and TriCore)
+- C, Rust, Python 3, Assembly (ARM)
 - `gcc`, `clang`, `pclint`, `clang-tidy`, `valgrind`, `gdb`, `make`, `cmake`, `meson`, `rustc`, `cargo`, `git`, `docker`
 - Linux, Bash (Fedora, Debian and Ubuntu)
 - embedded systems and microcontrollers (STM32, ESP32 and AURIX)
+- communication methods (Wi-Fi, BLE, MQTT + AWS IoT)
 
 Enthusiast:
 - electronic circuits and PCBs
-- 802.11, radio technology
-- ethical hacking
+- Zigbee, LoRaWAN
+- IoT hacking
