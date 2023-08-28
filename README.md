@@ -7,8 +7,7 @@ I'm András Gémes, a Rust embedded software engineer at [HighTec](https://hight
 I am involved in the following projects:
 - [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) - contributor
 - [hcxdumptool](https://github.com/ZerBea/hcxdumptool) - contributor
-- [8821au](https://github.com/morrownr/8821au-20210708) - contributor
-- [Monitor_Mode](https://github.com/morrownr/Monitor_Mode) - contributor
+- [OpenWrt](https://github.com/openwrt/openwrt) - tester
 
 Besides that, embedded systems are close to my heart so I always work on some STM32 or ESP32 based side project. Some of them are available here as public repos:
 - [rustlink](https://github.com/gemesa/rustlink)
