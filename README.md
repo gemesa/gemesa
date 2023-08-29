@@ -20,12 +20,12 @@ Besides that, embedded systems are close to my heart so I always work on some ST
 
 Professional:
 - C, Rust, Python 3, Assembly (ARM)
-- `gcc`, `clang`, `pclint`, `clang-tidy`, `valgrind`, `gdb`, `make`, `cmake`, `meson`, `rustc`, `cargo`, `git`, `docker`
-- Linux, Bash (Fedora, Debian and Ubuntu)
-- embedded systems and microcontrollers (STM32, ESP32 and AURIX)
+- `make`, `cmake`, `pclint`, `clang-tidy`, `valgrind`, `gdb`, `git`, `docker`
+- Linux, Bash (Fedora, Ubuntu)
+- embedded systems and microcontrollers (STM32, ESP32, AURIX)
 - communication methods (Wi-Fi, BLE, MQTT + AWS IoT)
 
 Enthusiast:
 - electronic circuits and PCBs
 - Zigbee, LoRaWAN
-- IoT hacking
+- pen testing, IoT hacking
