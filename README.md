@@ -9,7 +9,7 @@ I am involved in the following projects:
 - [hcxdumptool](https://github.com/ZerBea/hcxdumptool) - contributor
 - [OpenWrt](https://github.com/openwrt/openwrt) - tester
 
-Besides that, networks and embedded systems are close to my heart so I always work on some related side project. Some of them are available here as public repos:
+Besides that, networking and embedded systems are close to my heart so I always work on some related side project. Some of them are available here as public repos:
 - [rgaas](https://github.com/gemesa/rgaas)
 - [rustlink](https://github.com/gemesa/rustlink)
 - [esp32-phantom](https://github.com/gemesa/esp32-phantom)
@@ -29,4 +29,4 @@ Professional:
 Enthusiast:
 - electronic circuits and PCBs
 - Zigbee, LoRaWAN
-- networks, pen testing, IoT hacking
+- networking, pen testing, IoT hacking
