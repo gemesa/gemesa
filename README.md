@@ -22,8 +22,8 @@ Besides that, I have a strong interest in embedded systems: [stm32-rf-scanner](h
 
 - **Malware analysis:**
   - **Static**: DIE, PEview, capa, Ghidra, IDA, Binary Ninja, dnSpy, objdump, YARA
-  - **Dynamic**: VirtualBox, x64dbg, GDB, Wireshark, dnSpy
-- **Monitoring:** Procmon, TCPView, Regshot, strace, eBPF
+  - **Dynamic**: VirtualBox, x64dbg, GDB, dnSpy
+- **Monitoring:** Wireshark, Procmon, TCPView, Regshot, strace, eBPF
 - **Languages:** x86/x86-64 Assembly
 
 ## Certifications
