@@ -13,7 +13,7 @@ Besides that, I have a strong interest in embedded systems: [stm32-rf-scanner](h
 ### Professional
 
 - **Languages:** C, Rust, Python 3, Assembly (ARM, TriCore), Bash
-- **Tools:** Git, Docker, VirtualBox, GDB, Valgrind
+- **Tools:** Git, Docker, Jenkins
 - **Platforms:** Linux (Fedora, Ubuntu), Windows
 - **Embedded systems:** STM32, ESP32, AURIX
 - **Protocols:** Wi-Fi, CAN, SPI, UART, I2C
@@ -21,8 +21,8 @@ Besides that, I have a strong interest in embedded systems: [stm32-rf-scanner](h
 ### Enthusiast
 
 - **Malware analysis:**
-  - **Static**: DIE, PEview, Ghidra, IDA, Binary Ninja, dnSpy, objdump
-  - **Dynamic**: x64dbg, GDB, Wireshark, dnSpy
+  - **Static**: DIE, PEview, capa, Ghidra, IDA, Binary Ninja, dnSpy, objdump, YARA
+  - **Dynamic**: VirtualBox, x64dbg, GDB, Wireshark, dnSpy
 - **Monitoring:** Procmon, TCPView, Regshot, strace, eBPF
 - **Languages:** x86/x86-64 Assembly
 
