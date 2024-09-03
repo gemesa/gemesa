@@ -1,6 +1,6 @@
 ## Hey!
 
-My name is András Gémes, I am a professional embedded SW engineer at [HighTec](https://hightec-rt.com/en/) with a passion for malware analysis. Previously I have been working as an embedded software engineer at [Knorr-Bremse](https://www.knorr-bremse.com/en/) and as a freelancer on [Upwork](https://www.upwork.com/). You can find more information about me at [gemesa.dev](https://gemesa.dev).
+My name is András Gémes, I am a professional embedded SW engineer at [HighTec](https://hightec-rt.com/en/) with a passion for malware analysis. Previously I have been working as an embedded software engineer at [Knorr-Bremse](https://www.knorr-bremse.com/en/) and as a freelancer on [Upwork](https://www.upwork.com/). You can find more information about me at [shadowshell.io](https://shadowshell.io).
 
 ## Involvement
 
