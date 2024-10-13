@@ -4,7 +4,7 @@ My name is András Gémes, I am a professional embedded SW engineer at [HighTec]
 
 ## Involvement
 
-I am involved in the following cybersecurity projects: [Ghidra](https://github.com/NationalSecurityAgency/ghidra/issues?q=author%3Agemesa+) | [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) | [hcxdumptool](https://github.com/ZerBea/hcxdumptool) | [noseyparker](https://github.com/praetorian-inc/noseyparker)
+I am involved in the following cybersecurity projects: [Ghidra](https://github.com/NationalSecurityAgency/ghidra) | [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) | [hcxdumptool](https://github.com/ZerBea/hcxdumptool) | [noseyparker](https://github.com/praetorian-inc/noseyparker)
 
 Besides that, I have a strong interest in embedded systems: [stm32-rf-scanner](https://github.com/gemesa/stm32-rf-scanner) | [stm32-dc-dc](https://github.com/gemesa/stm32-dc-dc) | [esp32-phantom](https://github.com/gemesa/esp32-phantom) | [esp32-mqtt](https://github.com/gemesa/esp32-mqtt)
 
