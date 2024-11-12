@@ -4,7 +4,7 @@ My name is András Gémes, I am a professional embedded SW engineer at [HighTec]
 
 ## Involvement
 
-I am actively involved in the following cybersecurity projects: [Ghidra](https://github.com/NationalSecurityAgency/ghidra) | [binexport](https://github.com/google/binexport) (Ghidra plugin only) | [shadow-shell](https://github.com/gemesa/shadow-shell) | [sys-stalker](https://github.com/gemesa/sys-stalker)
+I am actively involved in the following cybersecurity projects: [Ghidra](https://github.com/NationalSecurityAgency/ghidra) | [binexport](https://github.com/google/binexport) (Ghidra plugin only) | [shadow-shell](https://github.com/gemesa/shadow-shell) | [sys-scout](https://github.com/gemesa/sys-scout)
 
 I have contributed to these security projects but am no longer active:  [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) | [hcxdumptool](https://github.com/ZerBea/hcxdumptool) | [noseyparker](https://github.com/praetorian-inc/noseyparker)
 
