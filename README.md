@@ -18,7 +18,7 @@ I also have a strong interest in embedded systems: [stm32-rf-scanner](https://gi
 
 **Malware analysis (dynamic)**: x64dbg, VirtualBox, Sysinternals, Regshot, Frida, GDB, eBPF, strace
 
-**Network analysis and protocols**: TCP, UDP, HTTP, DNS, Wireshark, Snort, Zeek
+**Network analysis and protocols**: Wireshark, Snort, Zeek, FakeNet-NG, INetSim, TCP, UDP, HTTP, HTTPS, DNS
 
 **Platforms and DevOps tools:** Linux (Fedora, Ubuntu), Windows, Git, Docker, GitHub Actions, Jenkins
 
