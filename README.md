@@ -1,6 +1,6 @@
 ## Hey!
 
-My name is András Gémes, I am a professional embedded SW engineer at [HighTec](https://hightec-rt.com/en/) with a passion for malware analysis. Previously I have been working as an embedded software engineer at [Knorr-Bremse](https://www.knorr-bremse.com/en/) and as a freelancer on [Upwork](https://www.upwork.com/). You can find more information about me at [shadowshell.io](https://shadowshell.io).
+My name is András Gémes, I am a professional embedded SW engineer at [HighTec](https://hightec-rt.com/en/) with a passion for malware analysis and reverse engineering. Previously I have been working as an embedded software engineer at [Knorr-Bremse](https://www.knorr-bremse.com/en/) and as a freelancer on [Upwork](https://www.upwork.com/). You can find more information about me at [shadowshell.io](https://shadowshell.io).
 
 ## Involvement
 
@@ -26,6 +26,6 @@ I also have a strong interest in embedded systems: [stm32-rf-scanner](https://gi
 
 ## Certifications
 
-**Fundamental cybersecurity:** [CompTIA Security+](./rsc/CompTIA%20Security+%20ce%20certificate.pdf) | [EC-Council CEH](./rsc/ECC-CEH-Certificate.pdf)
+**Fundamental cybersecurity:** [CompTIA Security+](./rsc/CompTIA%20Security+%20ce%20certificate.pdf) | CompTIA CASP+/SecurityX (awaiting certificate) | [EC-Council CEH](./rsc/ECC-CEH-Certificate.pdf)
 
 **Malware analysis:** [Invoke RE IMBT](./rsc/certificate-introduction-to-malware-binary-triage-659810f22df9c925d6089fcb.pdf) | [TCM Security PMAT](./rsc/certificate-of-completion-for-practical-malware-analysis-triage.pdf)
