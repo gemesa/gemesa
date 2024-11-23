@@ -1,31 +1,25 @@
 ## Hey!
 
-My name is András Gémes, I am a professional embedded SW engineer at [HighTec](https://hightec-rt.com/en/) with a passion for malware analysis and reverse engineering. Previously I have been working as an embedded software engineer at [Knorr-Bremse](https://www.knorr-bremse.com/en/) and as a freelancer on [Upwork](https://www.upwork.com/). You can find more information about me at [shadowshell.io](https://shadowshell.io).
+My name is András Gémes, I am a professional embedded SW engineer at [HighTec](https://hightec-rt.com/en/) with a passion for malware analysis and reverse engineering. You can find more information about me at [shadowshell.io](https://shadowshell.io).
 
-## Involvement
+## Contributions
 
-I am actively involved in the following cybersecurity projects: [Ghidra](https://github.com/NationalSecurityAgency/ghidra) | [binexport](https://github.com/google/binexport) (Ghidra plugin only) | [shadow-shell](https://github.com/gemesa/shadow-shell) | [sys-scout](https://github.com/gemesa/sys-scout)
+Currently I am focusing on reverse engineering with Ghidra.
 
-I have contributed to these security projects but am no longer active:  [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) | [hcxdumptool](https://github.com/ZerBea/hcxdumptool) | [noseyparker](https://github.com/praetorian-inc/noseyparker)
+### Reverse engineering
 
-I also have a strong interest in embedded systems: [stm32-rf-scanner](https://github.com/gemesa/stm32-rf-scanner) | [stm32-dc-dc](https://github.com/gemesa/stm32-dc-dc) | [esp32-mqtt](https://github.com/gemesa/esp32-mqtt)
+- [Ghidra](https://github.com/NationalSecurityAgency/ghidra)
+- [binexport](https://github.com/google/binexport)
+- [shadow-shell](https://github.com/gemesa/shadow-shell)
 
-## Skills
+### Wi-Fi security and secret scanning
 
-**Languages:** C, Rust, Python 3, Assembly (AMD64/x86-64, ARM64/AArch64), Bash
+- [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng)
+- [hcxdumptool](https://github.com/ZerBea/hcxdumptool)
+- [noseyparker](https://github.com/praetorian-inc/noseyparker)
 
-**Malware analysis (static):** Ghidra, IDA, capa, YARA, DIE, dnSpy, readelf, objdump
+### Embedded systems
 
-**Malware analysis (dynamic)**: x64dbg, VirtualBox, Sysinternals, Regshot, Frida, GDB, eBPF, strace
-
-**Network analysis and protocols**: Wireshark, Suricata, Zeek, FakeNet-NG, INetSim, TCP, UDP, HTTP, HTTPS, DNS
-
-**Platforms and DevOps tools:** Linux (Fedora, Ubuntu), Windows, Git, Docker, GitHub Actions, Jenkins
-
-**Embedded systems and protocols:** STM32, ESP32, AURIX, Wi-Fi, CAN, SPI, UART, I2C
-
-## Certifications
-
-**Fundamental cybersecurity:** [CompTIA Security+](./rsc/CompTIA%20Security+%20ce%20certificate.pdf) | CompTIA CASP+/SecurityX (awaiting certificate) | [EC-Council CEH](./rsc/ECC-CEH-Certificate.pdf)
-
-**Malware analysis:** [Invoke RE IMBT](./rsc/certificate-introduction-to-malware-binary-triage-659810f22df9c925d6089fcb.pdf) | [TCM Security PMAT](./rsc/certificate-of-completion-for-practical-malware-analysis-triage.pdf)
+- [stm32-rf-scanner](https://github.com/gemesa/stm32-rf-scanner)
+- [stm32-dc-dc](https://github.com/gemesa/stm32-dc-dc)
+- [esp32-mqtt](https://github.com/gemesa/esp32-mqtt)
