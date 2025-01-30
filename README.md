@@ -8,7 +8,8 @@ Currently I am focusing on reverse engineering with Ghidra.
 
 ### Reverse engineering
 
-- [Ghidra](https://github.com/NationalSecurityAgency/ghidra)
+- [ghidra](https://github.com/NationalSecurityAgency/ghidra)
+- [ghidra-scripts](https://github.com/gemesa/ghidra-scripts)
 - [rustbininfo](https://github.com/N0fix/rustbininfo)
 - [binexport](https://github.com/google/binexport)
 - [shadow-shell](https://github.com/gemesa/shadow-shell)
