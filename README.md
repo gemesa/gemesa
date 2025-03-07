@@ -24,4 +24,3 @@ Currently I am focusing on reverse engineering with Ghidra.
 
 - [stm32-rf-scanner](https://github.com/gemesa/stm32-rf-scanner)
 - [stm32-dc-dc](https://github.com/gemesa/stm32-dc-dc)
-- [esp32-mqtt](https://github.com/gemesa/esp32-mqtt)
