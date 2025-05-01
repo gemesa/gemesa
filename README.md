@@ -4,11 +4,12 @@ My name is András Gémes, I am a professional embedded SW engineer at [HighTec]
 
 ## Contributions
 
-Currently I am focusing on reverse engineering with Ghidra.
+Currently I am focusing on reverse engineering with Ghidra and Joern.
 
 ### Reverse engineering
 
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra)
+- [joern](https://github.com/joernio/joern)
 - [ghidra-scripts](https://github.com/gemesa/ghidra-scripts)
 - [rustbininfo](https://github.com/N0fix/rustbininfo)
 - [binexport](https://github.com/google/binexport)
