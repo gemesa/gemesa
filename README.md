@@ -1,6 +1,6 @@
 ## Hey!
 
-My name is András Gémes, I am a professional embedded SW engineer at [HighTec](https://hightec-rt.com/en/) with a passion for malware analysis and reverse engineering. You can find more information about me at [shadowshell.io](https://shadowshell.io).
+My name is András Gémes, I am a professional embedded SW engineer at [HighTec](https://hightec-rt.com/en/) with a passion for binary analysis, reverse engineering and malware analysis. You can find more information about me at [shadowshell.io](https://shadowshell.io).
 
 ## Contributions
 
