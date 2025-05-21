@@ -4,7 +4,7 @@ My name is András Gémes, I am a professional embedded SW engineer at [HighTec]
 
 ## Contributions
 
-Current focus: reverse engineering and vulnerability research with Ghidra and Joern.
+Current focus: Rust reverse engineering with Ghidra and vulnerability research with Joern.
 
 | Category | Projects |
 |----------|----------|
