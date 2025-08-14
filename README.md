@@ -1,10 +1,10 @@
 ## Hey!
 
-My name is András Gémes, I am a professional embedded SW engineer at [HighTec](https://hightec-rt.com/en/) with a passion for binary analysis, reverse engineering and malware analysis. You can find more information about me at [shadowshell.io](https://shadowshell.io).
+My name is András Gémes, I am a professional Rust SW engineer at [HighTec](https://hightec-rt.com/en/) with a passion for binary analysis, reverse engineering and malware analysis. You can find more information about me at [shadowshell.io](https://shadowshell.io).
 
 ## Contributions
 
-Current focus: reverse engineering with [Ghidra](https://github.com/NationalSecurityAgency/ghidra) and vulnerability research with [Joern](https://github.com/joernio/joern).
+Current focus: reverse engineering with [Ghidra](https://github.com/NationalSecurityAgency/ghidra).
 
 | Category | Projects |
 |----------|----------|
