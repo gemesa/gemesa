@@ -1,6 +1,6 @@
 ## Hey!
 
-My name is András Gémes, I am an Application Security Evaluator at [SGS Brightsight](https://www.brightsight.com/). You can find more information about me at [shadowshell.io](https://shadowshell.io).
+My name is András Gémes, I am an Mobile Security Analyst at [SGS Brightsight](https://www.brightsight.com/). You can find more information about me at [shadowshell.io](https://shadowshell.io).
 
 ## Contributions
 
