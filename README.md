@@ -8,7 +8,7 @@ Current focus: [mobile application security](https://github.com/gemesa/android-s
 
 | Category | Projects |
 |----------|----------|
-| Reverse engineering and vulnerability research | [ghidra](https://github.com/NationalSecurityAgency/ghidra) • [joern](https://github.com/joernio/joern) • [ghidra-scripts](https://github.com/gemesa/ghidra-scripts) • [binexport](https://github.com/google/binexport) |
+| Reverse engineering and vulnerability research | [ghidra](https://github.com/NationalSecurityAgency/ghidra) • [radare2](https://github.com/radareorg/radare2/) • [ghidra-scripts](https://github.com/gemesa/ghidra-scripts) |
 | Binary obfuscation | [phantom-pass](https://github.com/gemesa/phantom-pass) • [o-mvll](https://github.com/open-obfuscator/o-mvll) |
 | Malware analysis | [shadowshell.io](https://shadowshell.io) • [threat-detection-rules](https://github.com/gemesa/threat-detection-rules) |
 | Mobile security | [android-security-handbook](https://github.com/gemesa/android-security-handbook) |
